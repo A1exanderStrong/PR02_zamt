@@ -1,0 +1,8 @@
+C:\Users\user\Desktop\homework\PR02\bin\Debug\PR02.exe.config
+C:\Users\user\Desktop\homework\PR02\bin\Debug\PR02.exe
+C:\Users\user\Desktop\homework\PR02\bin\Debug\PR02.pdb
+C:\Users\user\Desktop\homework\PR02\obj\Debug\PR02.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\homework\PR02\obj\Debug\PR02.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Desktop\homework\PR02\obj\Debug\PR02.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\homework\PR02\obj\Debug\PR02.exe
+C:\Users\user\Desktop\homework\PR02\obj\Debug\PR02.pdb
